@@ -6,6 +6,7 @@ public class batch12 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hi GitHub");
+		System.out.println("making commit #3");
 
 	}
 
